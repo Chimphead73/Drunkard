@@ -1,0 +1,16 @@
+:root {
+    --background-color: #62e1eb;
+    --primary-color: #e0e0e0;
+    --accent-color: #ee0000;
+    --text-color: #000035;
+}
+
+/* Put some styles on the body tag */
+body {
+    background: var(--background-color);
+    color: var(--text-color);
+    font-family: Verdana, sans-serif;
+    font-size: large;
+    overflow-x: hidden;
+}
+
